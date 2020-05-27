@@ -1,0 +1,9 @@
+<Project Sdk="Soneta.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net46</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\SpeedBoost\SpeedBoost.csproj" />
+	</ItemGroup>
+</Project>
